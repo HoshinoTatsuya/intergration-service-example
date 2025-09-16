@@ -66,3 +66,5 @@ lerna-debug.log*
 ./redis-integration/dist
 ./redis-integration/node_modules
 ./redis-integration/*.lock
+/redis-integration/pnpm-lock.yaml
+/redis-integration/node_modules/
